@@ -1,0 +1,25 @@
+h1  {
+    color:yellow;
+    }
+
+.section-title{
+    color:rgb(245, 245, 245);
+    padding-top: 10px;
+
+}
+
+p{
+    color:red;
+}
+
+.form-wrapper p {
+    color: red;
+  }
+
+body {
+    background-color: black;
+    }
+
+
+    
+
